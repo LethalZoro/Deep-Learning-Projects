@@ -5,4 +5,7 @@ Bleu*Score/
 Vision*Transformer/Cifar_10/Vision_Transformer.ipynb
 Vision*Transformer/Cifar_10/ViT.ipynb
 Vision*Transformer/Object_detection/VIA2COCO/
+Vision*Transformer/Object_detection/Kitti/
 Vision*Transformer/Cifar_10/Saved Models/
+Vision*Transformer/Sementic*Segmentation/Segformer*Nvidia/
+Vision*Transformer/Sementic*Segmentation/cityscapes_data/
